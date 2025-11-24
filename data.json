@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "Principia",
+    "descricao": "A Principia é uma marca de dermocosméticos brasileira que ganhou destaque por sua proposta de oferecer produtos de alta performance com preços justos. O foco da Principia é a beleza acessível e a transparência. Eles buscam democratizar o acesso a tratamentos eficazes para a pele, rosto, corpo e cabelo.",
+    "link": "https://www.principiaskin.com"
+  },
+  {
+    "nome": "Creamy",
+    "descricao": "A Creamy é uma das marcas de dermocosméticos brasileiras mais populares e influentes do mercado atual, conhecida por suas fórmulas eficazes e embalagens coloridas. A Creamy foi idealizada em 2019 pelo médico dermatologista Dr. Luiz Romancini e pelo empresário Gabriel Beleze. A proposta central inclui Fórmulas Minimalistas e Potentes, Acessibilidade e Custo-Benefício e Educação ao Consumidor.",
+    "link": "https://www.creamy.com.br"
+  },
+  {
+    "nome": "Sallve",
+    "descricao": "A Sallve é uma marca brasileira de skincare (cuidados com a pele) que se destacou no mercado por sua abordagem digital e colaborativa. Lançada em 2019, a marca foi co-fundada pela publicitária e produtora de conteúdo de beleza Júlia Petit, juntamente com outros profissionais. O pilar central da Sallve é a escuta ativa da comunidade. A marca nasceu e se desenvolveu no ambiente digital, usando o feedback, sugestões e necessidades reais dos consumidores para o desenvolvimento e curadoria de seus produtos. A proposta é simplificar a rotina de cuidados, oferecendo soluções eficazes, seguras e com preços justos, sempre atenta às necessidades da pele brasileira.",
+    "link": "https://www.sallve.com.br"
+  },
+   {
+    "nome": "Simple Organic",
+    "descricao": "A Simple Organic é uma das principais referências no mercado de Clean Beauty (Beleza Limpa) no Brasil. Lançada em 2017 por Patrícia Lima, a marca nasceu com o propósito de transformar a indústria da beleza, oferecendo produtos que cuidam da pele, do corpo, do planeta e das pessoas. A Simple Organic cria fórmulas naturais, veganas, orgânicas e livres de crueldade animal (cruelty-free). Os produtos são formulados sem ingredientes sintéticos prejudiciais, como parabenos, sulfatos, petrolatos, silicones insolúveis, e corantes e fragrâncias artificiais.",
+    "link": "https://simpleorganic.com.br"
+  },
+ {
+    "nome": "ADCOS",
+    "descricao": "A ADCOS é uma marca brasileira de grande destaque, especializada em dermocosméticos, que atua no mercado há mais de 30 anos. Foi criada em 1993 pela farmacêutica e empresária Ada Mota, que trouxe para o Brasil o conceito de dermocosmético após seu mestrado em Dermofarmácia e Cosmetologia em Paris.O principal diferencial da ADCOS é o desenvolvimento de produtos que unem a cosmética (beleza e sensorial agradável) com a dermatologia (eficácia comprovada cientificamente). odos os produtos são desenvolvidos e testados em parceria com dermatologistas e farmacêuticos, e passam por estudos clínicos para garantir a máxima eficácia e segurança, especialmente para a pele e o clima brasileiros.",
+    "link": "https://www.lojaadcos.com.br"
+  },
+   {
+    "nome": "Dermage",
+    "descricao": "A Dermage é uma marca brasileira de dermocosméticos com mais de 30 anos de atuação, reconhecida por desenvolver produtos de alta tecnologia e eficácia, muitos deles inicialmente voltados para manipulação e indicação médica.Fundada em 1990 por Lisa Braun, inicialmente focada na manipulação de fórmulas prescritas por dermatologistas e cirurgiões plásticos. Essa origem laboratorial garante uma forte base de confiança médica e rigor técnico nas formulações.O foco é em produtos que unem a ciência da dermatologia com a cosmetologia, entregando eficácia comprovada para a saúde da pele.A Dermage desenvolve produtos adaptados às necessidades, texturas e etnias da pele brasileira, considerando nosso clima e as questões mais comuns, como oleosidade, manchas e fotoenvelhecimento.",
+    "link": "https://www.dermage.com.br"
+  },
+     {
+    "nome": "The Joy Laab",
+    "descricao": "A The Joy Lab é uma marca de skincare (cuidados com a pele) brasileira, conhecida por sua filosofia de unir excelência em tecnologia e alta performance na formulação de seus produtos. A marca nasceu com foco total em garantir o uso de tecnologia avançada no desenvolvimento de cosméticos de máxima performance e desempenho, priorizando a eficácia. Possuem uma filosofia de busca incessante por melhoria contínua, renovando frequentemente produtos e criando novos valores.",
+    "link": "https://www.thejoylab.com.br"
+  },
+      {
+    "nome": "Ollie",
+    "descricao": "A Ollie é uma marca de cosméticos brasileira, nativa digital, que se especializou em proteção solar com foco em praticidade, alta performance e multifuncionalidade. A missão da Ollie é transformar a proteção solar — uma etapa essencial do skincare — em um momento fácil, agradável e descomplicado na rotina diária.",
+    "link": "hhttps://meuollie.com.br/"
+  },
+   {
+    "nome": "ADA TINA",
+    "descricao": "A ADA TINA é uma marca de dermocosméticos com uma forte herança europeia e um foco de inovação voltado para as necessidades da pele brasileira, especialmente em fotoproteção e tratamento de manchas.A marca tem suas raízes na Toscana, Itália, e foi criada pelo Dr. Maurizio Pupo, farmacêutico especialista em cosmetologia, adaptando a alta tecnologia italiana para o clima e a pele do Brasil.Os produtos são desenvolvidos com um alto rigor científico e frequentemente destinados à prescrição médica, garantindo eficácia e segurança.",
+    "link": "https://www.adatina.com"
+  }
+]
